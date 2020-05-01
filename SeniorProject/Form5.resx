@@ -117,46 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="BindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>305, 17</value>
-  </metadata>
   <metadata name="ReceivingScheduleDataSet2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="T_ReceivingScheduleTableAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>495, 17</value>
+  <metadata name="TYardStatusBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>305, 17</value>
   </metadata>
-  <metadata name="BindingSource2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>1269, 26</value>
+  <metadata name="T_YardStatusTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>582, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="PictureBox2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAGQAAABjCAYAAABt56XsAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAABJZJREFUeF7t2UsodW8UBvDPNZeQSIoMhJQURogSykwxcCsxISZKJjI2YabIRGJA
-        DJVLxpREMXCbKIlCBkK5e///ddrHPvuc5+BDrQ/Pql/p2Wu/jnfV2Rd//i9D/xQYkh4Ykh4Ykh4Ykh4Y
-        kh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Y
-        kh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Y
-        kh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4Ykh4YqgoMDIT5ZwQEBLigY/8YGH7Y7Oys
-        eX5+ftX9/b05ODgwg4ODJj8/32cAmZmZ5uHhwee86enpNzc1NjbWXF9f+5y7urpqgoKCXD1RUVFw/YyM
-        DJ/13HJyclyf2/uc5ORk2P8JMPwwGcjflGzMyMiIiYyMdKyzsLBgddh1fn5uEhISHH3empubrW67ZOOa
-        mppeemQgj4+P1lG73hqIfFbv+nEDcdfk5KRjnbKyMuuIszo6Ohx9nkJDQ83e3p7VadfZ2ZkJCwt76eNA
-        3lHyxxYVFb2sIxu4u7trHbVrY2PDBAcHO36nW25uLty03t5eR9+vH8jS0pKprq42NTU1prOzE2601MDA
-        gGOtnp4e64izZOM9+4RcW8bHx60Ou25vb01iYqKj99cPRC7Gnj1xcXGuC693raysOPrkj724uLCO2uX9
-        9Sbi4+NdX03eNTU15XMjwIF4DUSsra1ZR+3a2dnx6ZNzvUvuduRuyrMPXcxlA7Ozsx19ggMBA0FfW5ub
-        mz59hYWFcPO6urocfcvLy9YRu+RWNyQkxNEn/A2ksrLS5OXlQfJ1++MGIl8d4eHhprS01Dw9PVlH7Zqf
-        n/dZT2xvb1sddknmfq5IS0uzUrvkVreurs5nLeFvIB+pbzmQ4+NjMzMzY+bm5szW1hYchlR7eztcs7a2
-        1uqw6+7uzhQUFLiODw8PW6ldh4eHJiYmxmct8esH8p6Si3dSUhJcU54vTk9PrU67xsbGTHR0NLxB6O/v
-        h2sJDuQd1dDQANdzQ7fAJycnrgdF75LNTk1NhesIDsRPyabIO62qqiq4lqeUlBRzc3NjnWnX5eWl9ZNd
-        8hnQGm7+BiJ3WXKdQ/w9dH7LgcimT0xMuJ4fxOjoqOnu7jYlJSWOVxqvkQu4XIfeKrmYFxcXwzXcXhsI
-        6hc//rb3I2Sj3/qqWV9ff/P1PQfyRQOJiIgw+/v71qq4Ghsb4bmeOJAvGohAF3F3HR0due660HmeOJAv
-        HIj8P+Tq6spa2Vl9fX3wHG8cyBcORAwNDVkr2yVDkid21O+NA/nigaSnp1sr27W4uAh7kY8M5Nve9lZU
-        VJjW1laH8vJy2PsZ9fX1jt+RlZUF+xB54djS0uI4X/h71SLk9b73OW1tbT7/ev4CMCQ9MCQ9MCQ9MCQ9
-        MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQ9MCQVf8x/YngxL8XvK9cAAAAA
-        SUVORK5CYII=
-</value>
-  </data>
+  <metadata name="TYardStatusByLocationBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1146, 17</value>
+  </metadata>
+  <metadata name="TYardStatusByLocationBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1146, 17</value>
+  </metadata>
+  <metadata name="ReceivingScheduleDataSet3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>858, 17</value>
+  </metadata>
+  <metadata name="ReceivingScheduleDataSet3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>858, 17</value>
+  </metadata>
+  <metadata name="T_YardStatusByLocationTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1512, 17</value>
+  </metadata>
+  <metadata name="TContainerStatusTypesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>305, 65</value>
+  </metadata>
+  <metadata name="ReceivingScheduleDataSet4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 65</value>
+  </metadata>
+  <metadata name="T_ContainerStatusTypesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>672, 65</value>
+  </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>51</value>
+    <value>107</value>
   </metadata>
 </root>
